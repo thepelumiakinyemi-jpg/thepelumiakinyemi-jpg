@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Zephyr! 
 
-<!--
-**thepelumiakinyemi-jpg/thepelumiakinyemi-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **17 y/o Aspiring Cloud Security & DevSecOps Engineer**
+🐧 Actively mastering the Linux terminal, Python automation, and crushing flags on picoCTF.
+💪 Focusing on shifting security left and understanding how to build secure cloud infrastructure from the ground up.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ What I'm Learning & Practicing Right Now:
+* **Linux Foundations:** Navigating the terminal and automation scripting.
+* **Cyber Security:** Solving beginner-to-intermediate CTF challenges on picoCTF.
+* **Git & GitHub:** Documenting my progress and building a hands-on portfolio.
+
+### 🎯 Current Milestones:
+- [x] Create a GitHub profile and set up my learning logs
+- [/] Clear the General Skills & Web Exploitation sections on picoCTF
+- [ ] Spin up my first secure AWS cloud server
